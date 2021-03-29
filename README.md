@@ -1,2 +1,9 @@
-# hello-world
-hello world in new language
+package main
+
+import "fmt"
+
+func main(){
+
+	fmt.Println("!... Hello World ...!")
+
+}
